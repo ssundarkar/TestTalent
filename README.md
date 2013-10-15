@@ -1,4 +1,1 @@
-TestTalent
-==========
-
-Testing commit
+I am commiting this file from RubyMine
